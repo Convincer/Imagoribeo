@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imagoribeo", "Imagoribeo\Imagoribeo.csproj", "{D5821423-894D-44A2-AED4-70BA727DB5DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagoribeoTests", "ImagoribeoTests\ImagoribeoTests.csproj", "{149A8DC7-F98C-46E3-B701-9EA227E89426}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D5821423-894D-44A2-AED4-70BA727DB5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5821423-894D-44A2-AED4-70BA727DB5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5821423-894D-44A2-AED4-70BA727DB5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149A8DC7-F98C-46E3-B701-9EA227E89426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149A8DC7-F98C-46E3-B701-9EA227E89426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149A8DC7-F98C-46E3-B701-9EA227E89426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149A8DC7-F98C-46E3-B701-9EA227E89426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
