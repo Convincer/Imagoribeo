@@ -14,8 +14,8 @@ namespace ImagoribeoTests.Analyze
         {
             var result = new Analyzer(null, null).File("test.jpg");
 
-            Assert.Equal(result.Width, 550);
-            Assert.Equal(result.Height, 866);
+            Assert.Equal(result.Width, 218);
+            Assert.Equal(result.Height, 226);
         }
 
         [Fact]
